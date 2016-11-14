@@ -3,6 +3,7 @@ This is the code repository for  [Swift Data Structure and Algorithms](https://w
 
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+
 The code will look like the following:
 ```
 var myDict = [1: "One", 2: "Two", 3: "Three"] 
